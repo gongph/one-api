@@ -1,14 +1,14 @@
 # 写在前面
 以下所有 API 均由韩寒 [「ONE · 一个」](http://wufazhuce.com/) 提供。请您熟知，在保证不侵犯 [「ONE · 一个」](http://wufazhuce.com/) 利益的前提下遵守开源协议规则，仅作为日常学习之用。
 
-## 「ONE · 一个」APP版本
+## API 版本
 - v4.2.2 
 
 ## API 说明
 - 格式
- - json
+  - json
 - 请求方式
- - GET
+  - GET
 
 ## API 目录
 - [首页](./index/README.md)
