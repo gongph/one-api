@@ -1,6 +1,6 @@
-# 一个阅读 API 说明文档
+# 一个阅读API接口
 
-### 获取阅读频道最新的10条图文
+### 1. 获取阅读频道最新的10条图文
 当点击阅读 icon 或者下拉刷新的时候，调用的都是同一个接口，即：
 
 [http://v3.wufazhuce.com:8000/api/channel/reading/more/0](http://v3.wufazhuce.com:8000/api/channel/reading/more/0)
@@ -28,7 +28,7 @@
 
 由于返回内容较多，请自己点开链接查看。
 
-### 下拉刷新获取图文列表
+### 2. 下拉刷新获取图文列表
 下拉刷新接口传入的 id 参数是 `data` 数组中最后一条图文的 id
 
 ```bash
