@@ -1,6 +1,6 @@
 # 评论API接口
 
-### 根据类型和id获取评论列表
+### 1. 根据类型和id获取评论列表
 
 ```
 http://v3.wufazhuce.com:8000/api/comment/praiseandtime/{category}/{id}/0
@@ -31,7 +31,7 @@ Example:
 
 [http://v3.wufazhuce.com:8000/api/comment/praiseandtime/essay/2604/0](http://v3.wufazhuce.com:8000/api/comment/praiseandtime/essay/2604/0)
 
-### 上拉获取一下页评论列表
+### 2. 上拉获取一下页评论列表
 
 ```bash
 # `{category}` 类型
