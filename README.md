@@ -17,6 +17,7 @@
 - [一个影视](./movie/README.md)
 - [一个搜索](./search/README.md)
 - [评论](./comment/README.md)
+- [channel](./channel/README.md)
 
 ## LICENSE 
 
