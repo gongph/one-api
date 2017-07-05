@@ -3,8 +3,19 @@
 ### 1. 根据类型和id获取评论列表
 
 ```
-http://v3.wufazhuce.com:8000/api/comment/praiseandtime/{category}/{id}/0
+http://v3.wufazhuce.com:8000/api/comment/praiseandtime/{type}/{id}/0
 ```
+
+参数：
+
+- `{type}` 主要有以下几种：
+  - `essay` : 短文
+  - `serial` : 连载
+  - `question` : 问答
+  - `music` : 音乐
+  - `movie` : 影视
+  - `radio` : 电台
+- `{id}` 当前类型下的某个id
 
 返回结果：
 
