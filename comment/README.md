@@ -27,7 +27,7 @@ http://v3.wufazhuce.com:8000/api/comment/praiseandtime/{category}/{id}/0
 
 Example: 
 
-获取 `essay` 类型下文章 `id` 是 2605 的评论列表
+获取 `essay` 类型下文章 `id` 是 2604 的评论列表
 
 [http://v3.wufazhuce.com:8000/api/comment/praiseandtime/essay/2604/0](http://v3.wufazhuce.com:8000/api/comment/praiseandtime/essay/2604/0)
 
