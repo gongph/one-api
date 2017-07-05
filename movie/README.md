@@ -28,8 +28,8 @@
 
 由于返回内容较多，请自己点开链接查看。
 
-### 2. 上拉刷新获取图文列表
-上拉刷新接口传入的 id 参数是 `data` 数组中最后一条图文的 id
+### 2. 上拉刷新获取下一页内容
+上拉刷新接口传入的 id 参数是 `data` 数组中最后一条影视的 id
 
 ```bash
 # 其中 `{id}` 替换成对应图文id值
@@ -40,7 +40,7 @@ Example:
 
 [http://v3.wufazhuce.com:8000/api/channel/movie/more/12251](http://v3.wufazhuce.com:8000/api/channel/movie/more/12251)
 
-### 3. 根据id获取影视图文详情信息
+### 3. 根据id获取影视详情信息
 
 ```
 http://v3.wufazhuce.com:8000/api/movie/{id}/story/1/0
