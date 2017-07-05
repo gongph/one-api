@@ -1,6 +1,6 @@
-# 首页 API 说明文档
+# 首页API接口
 
-#### 1. 获取前十天的图文id数组集合
+### 1. 获取前十天的图文id数组集合
 
 [http://v3.wufazhuce.com:8000/api/onelist/idlist](http://v3.wufazhuce.com:8000/api/onelist/idlist)
 
@@ -27,7 +27,7 @@
 **Tips:** `data` 数组中的第一项是今天的图文id，最后一项是10天前的图文id。
 
 
-#### 2. 根据id获取某一天的图文列表
+### 2. 根据id获取某一天的图文列表
 
 ```bash
 # 其中 `{id}` 替换成当前id值
