@@ -39,3 +39,32 @@ http://v3.wufazhuce.com:8000/api/channel/reading/more/{id}
 Example: 
 
 [http://v3.wufazhuce.com:8000/api/channel/reading/more/12306](http://v3.wufazhuce.com:8000/api/channel/reading/more/12306)
+
+### 3. 根据id获取短文详情信息
+
+```
+http://v3.wufazhuce.com:8000/api/essay/{id}
+```
+
+Example:
+
+[http://v3.wufazhuce.com:8000/api/essay/2605](http://v3.wufazhuce.com:8000/api/essay/2605)
+
+### 4. 根据id获取连载详情信息
+
+```
+http://v3.wufazhuce.com:8000/api/serialcontent/{id}
+```
+Example:
+
+[http://v3.wufazhuce.com:8000/api/serialcontent/356](http://v3.wufazhuce.com:8000/api/serialcontent/356)
+
+### 5. 根据id获取问答详情信息
+
+```
+http://v3.wufazhuce.com:8000/api/question/{id}
+```
+
+Example:
+
+[http://v3.wufazhuce.com:8000/api/question/1782](http://v3.wufazhuce.com:8000/api/question/1782)
