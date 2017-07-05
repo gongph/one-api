@@ -31,7 +31,8 @@ Example:
 
 [http://v3.wufazhuce.com:8000/api/comment/praiseandtime/essay/2604/0](http://v3.wufazhuce.com:8000/api/comment/praiseandtime/essay/2604/0)
 
-### 2. 上拉获取一下页评论列表
+### 2. 上拉获取下一页评论列表
+评论是有分页的，每页显示 28 条。上拉会追加显示下一页的评论列表，而上一页和下一页的临界点就是当前页的最后一条 评论id。
 
 ```bash
 # `{category}` 类型
