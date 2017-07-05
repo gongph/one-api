@@ -1,5 +1,5 @@
 # channel 频道
-一个app中有 6 中 channel 类型，分别是：
+「ONE · 一个」中有 6 种 channel 类型，分别是：
 
 - `hp` : 图文
 - `reading` : 阅读
