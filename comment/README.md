@@ -46,10 +46,10 @@ Example:
 评论是有分页的，每页显示 28 条。上拉会追加显示下一页的评论列表，而上一页和下一页的临界点就是当前页的最后一条 评论id。
 
 ```bash
-# `{category}` 类型
+# `{type}` 类型，见上方说明
 # `{id}` 图文id
 # `{lastcommentid}` 当前页最后一条评论的id
-http://v3.wufazhuce.com:8000/api/comment/praiseandtime/{category}/{id}/{lastcommentid}
+http://v3.wufazhuce.com:8000/api/comment/praiseandtime/{type}/{id}/{lastcommentid}
 ```
 
 Example:
