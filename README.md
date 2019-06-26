@@ -2,7 +2,7 @@
 以下所有 API 均由韩寒 [「ONE · 一个」](http://wufazhuce.com/) 提供。请您熟知，在保证不侵犯 [「ONE · 一个」](http://wufazhuce.com/) 利益的前提下遵守开源协议规则，仅作为日常学习之用。
 
 ## API 版本
-由于是在 「ONE · 一个」v4.2.2 版本中进行获取的，所以 API 的版本也是 v4.2.2 。
+v4.5.9
 
 ## API 说明
 - 格式
@@ -25,8 +25,6 @@
 
 ## LICENSE 
 
-MIT License
-
-Copyright (c) 2017 [gongph](https://github.com/gongph)
+MIT License [gongph](https://github.com/gongph)
 
 
